@@ -13,7 +13,7 @@ import java.util.Map;
 public class TranslateFacade {
 
   static final String URI = "https://api.openai.com/v1/completions";
-  static final String API_KEY = "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";
+  static final String API_KEY = "YOUR API KEY"
 
   RestTemplate restTemplate = new RestTemplate();
 
